@@ -113,4 +113,11 @@
 
 
 
+![44](https://user-images.githubusercontent.com/70964906/100848960-36f29000-34c5-11eb-97ce-04ddbab0c725.PNG)
+
+입장시 나타나는 화면, 중앙의 고인돌 위의 철 주위를 클릭하면, touch cost만큼 골드가 들어온다
+
+
+
+
 
