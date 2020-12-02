@@ -117,6 +117,12 @@
 
 입장시 나타나는 화면, 중앙의 고인돌 위의 철 주위를 클릭하면, touch cost만큼 골드가 들어온다
 
+![141](https://user-images.githubusercontent.com/70964906/100850312-fe53b600-34c6-11eb-8e08-ca44a876d642.PNG)
+
+철의 품질을 업그레이드 할 수 있는 화면
+
+touch cost가 증가하게 된다.
+
 
 
 ![메뉴창을 구현한](https://user-images.githubusercontent.com/70964906/100849110-6c977900-34c5-11eb-93b1-f2fdac7f5147.PNG)
@@ -129,34 +135,49 @@
 ![12121214ㄷ](https://user-images.githubusercontent.com/70964906/100849244-9fda0800-34c5-11eb-8e1b-d7970fb6742a.PNG)
 
 도구강화창, 각각의 도구를 강화할 수 있으며 "강화"버튼에 갖다 대면 현재 강화 수치 및 필요 골드가 나온다,
+
 각각의 독립된 파이 파일로 구현을 했다.
 
 
 ![13145644756586879](https://user-images.githubusercontent.com/70964906/100849496-02330880-34c6-11eb-9f52-89c1cab12fee.PNG)
 
 재질강화, 재질을 강화해주며, 추가 골드 획득량이 올라가는 대신, 물가도 비싸지게 된다
+
 즉, 업그레이드 비용 역시 같이 비싸지게 되니, 주의할 필요가 있다
 
 
 ![Ejskdy](https://user-images.githubusercontent.com/70964906/100849742-40c8c300-34c6-11eb-8e2a-0b359ac480ba.PNG)
+
 사냥터 떠나기를 눌렀을 때 보이는 화면, 
+
 사냥, 벌목, 던전 3가지 컨텐츠가 있으며
+
 벌목은 초급컨텐츠 사냥은 중급컨텐츠, 던전은 고급컨텐츠로 설계가 되어있다.
 
 
 ![돌때가리](https://user-images.githubusercontent.com/70964906/100849716-3dcdd280-34c6-11eb-87f7-8b94300c7583.PNG)
 광산이다. 고급 컨텐츠이며,
+
 총 4단계로 구성이 되어있다
+
 1단계 : 철 , 2단계 : 금, 3단계 : 루비, 4단계 : 미믹
 
 
+
 ![오리대가리](https://user-images.githubusercontent.com/70964906/100849721-3e666900-34c6-11eb-81d0-4058182e2bad.PNG)
+
 사냥이다, 중급컨텐츠이며,
+
 역시 4단계로 이루어져있다
+
 1단계 : 오리, 2단계 : 말 3단계 : 곰 4단계 : 사자
+
 
 ![vnfEorkfl](https://user-images.githubusercontent.com/70964906/100849731-3f979600-34c6-11eb-8cb2-e8ae91d9e2ca.PNG)
 
+
 벌목이다, 초급 컨텐츠로 hp가 제일 낮다
+
 역시 4단계로 구성이 되어 있다
+
 1단계 : 가지나무, 2단계 : 해바라기, 3단계 : 선인장, 4단계 : 
